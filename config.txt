@@ -1,0 +1,1 @@
+Server=DESKTOP-HCIPV14;Database=Veritabani;User Id=sa;Password=01041976;TrustServerCertificate=True;
